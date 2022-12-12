@@ -1,0 +1,14 @@
+{
+    "transactionState": "SUCCESS",
+    "transactionTime": 1650116492742,
+    "uuid": "b9d611cd-148f-4026-9086-a443b448921d",
+    "respObject": {
+        "sourceAccountNumber": "0214690676001",
+        "destinationAccountNumber": "0212797175002",
+        "amount": 12000,
+        "sourceBank": "BSI",
+        "destinationBank": "BSI",
+        "transferType": "LOCAL",
+        "traceNumber": "010127181132OBH 6810"
+    }
+}
